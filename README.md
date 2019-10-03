@@ -1,6 +1,8 @@
 # 东北大学的一键连接IP网关脚本
 又是一键连接ipgw.neu.edu.cn，这次模拟浏览器行为，再也不用点浏览器啦，哈哈！
 
+![gif](GIF.gif)
+
 ## 安装方法
 
 1. 在此页面下载压缩包或者`git clone https://github.com/YouDad/ipgw.git`
